@@ -1,0 +1,22 @@
+<!-- <i-button type="primary" bind:click="handleClick">这是一个按钮</i-button>
+<view style="margin-top: 100px;">    
+    <i-button bind:click="handleOpen1">普通对话框</i-button>
+</view>
+<i-modal title="标题" visible="{{ visible1 }}" bind:ok="handleClose1" bind:cancel="handleClose1">    
+  <view>一些文本</view>    
+  <view>一些文本</view>    
+  <view>一些文本</view>    
+  <view>一些文本</view>    
+  <view>一些文本</view>    
+  <view>一些文本</view>    
+  <view>一些文本</view>    
+  <view>一些文本</view>    
+  <view>一些文本</view>
+</i-modal>
+ -->
+
+<i-row>
+    <i-col span="8" i-class="col-class">col-8</i-col>
+    <i-col span="8" i-class="col-class">col-8</i-col>
+    <i-col span="8" i-class="col-class">col-8</i-col>
+</i-row>
