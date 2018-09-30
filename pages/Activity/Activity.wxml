@@ -12,7 +12,7 @@
   </view>
 
   <view class='act-content' >
-    <block  wx:for="{{content}}" wx:for-item="value">
+    <block  wx:for="{{content}}" wx:for-item="value" wx:key="id">
       <!-- {{value.actor.url}} -->
       <view class='block'>
         <view class='b-image'>
