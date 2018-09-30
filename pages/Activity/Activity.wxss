@@ -18,29 +18,64 @@
 }
 .act-content{
   margin-left: 5px;
+  margin-top: 30px;
+  
 }
-.actionType{
-  /* margin-left: 10px; */
-}
+
 .block{
   padding: 10px;
   border: 1px hsl(0, 0%, 58%,0.5) solid;
   /* margin-bottom: 10px; */
   margin-right: 5px;
-  margin-top: 20px;
+  margin-top: 5px;
   border-radius: 10px;
   box-shadow: 1px 1px 1px 1px #bdbdbd;
   width: 90%;
-  display: flex;  
+  display: flex;   
   /* flex 流动布局很重要!!!!!! */
   /* opacity: 0.5; */
 }
 .b-image{
   float: left;
-  border: 1px solid black;
+  /* border: 1px solid black; */
 }
 .content{
   margin-left: 10px;
   border: 1px solid black;
-  width: 80%
+  /* width: 80%; */
+  /* display: flex; */
+  /* height: 10%; */
+  margin-left: 5px;
+  margin-top: 30px;
+}
+.act-userName{
+  font-size: 16px;
+  font-weight: bold;
+  color: #2c2c2c;
+  padding-left: 25px;
+  /* display: flex; */
+}
+.act-repo-name{
+  border: 1px solid black;
+  /* align-self: flex-end; */
+  flex-wrap: nowrap;
+}
+.actionType{
+  /* margin-left: 10px; */
+  font-size: 15px;
+  /* border: 1px solid black; */
+  flex-grow: 1;
+  padding-left: 40px;
+  /* margin-left: 15px; */
+  /* width: 33%; */
+}
+/* .act-content{
+  border: 1px solid black;
+  flex-wrap: nowrap;
+} */
+.act-user-info{
+  display: flex;
+}
+.act-content1{
+
 }
