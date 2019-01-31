@@ -16,7 +16,7 @@
 
 ### 原型（XD）
 
-![图一](https://github.com/Grizzy-bear/WX-Github/blob/Demo/images/readme/1.PNG)
+![图一](https://github.com/Grizzy-bear/WX-Github/blob/Demo/images/readme/3.PNG)
 
 
 
