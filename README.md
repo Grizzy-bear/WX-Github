@@ -1,5 +1,7 @@
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)   [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)   
 
+### 更新延迟到某年某月未知.....
+
 ### 使用[ivew weapp](https://weapp.iviewui.com/)
 
 - 组件挺方便，慢慢感觉中。。。。。。
